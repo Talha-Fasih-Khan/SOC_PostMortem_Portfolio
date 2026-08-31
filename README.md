@@ -1,7 +1,7 @@
 # SOC Post-Mortem Portfolio: Executive Summary
 
 **Author:** Talha Khan  
-**Role:** Junior SOC Analyst  
+**Role:** SOC Analyst  
 **Scope:** 460 Security Post-Mortem Reports  
 **Objective:** Categorize, triage, and provide actionable intelligence on a large volume of endpoint detection alerts to demonstrate analytical maturity and environmental awareness.
 
