@@ -76,8 +76,8 @@ This portfolio is organized to demonstrate both **depth** (individual incident w
 
 ```text
 📁 SOC_PostMortem_Portfolio/
-├── 📁 01_Malware_Infections/     # 9 True Positives (Trojans, Droppers, Phishing)
+├── 📁 01_Malware_Infections/     # 8 True Positives (Trojans, Droppers, Phishing)
 ├── 📁 02_DualUse_Admin_Tools/    # 146 events (RMMs, SSH, VPNs, BitLocker)
-├── 📁 03_PUA_Riskware/           # 25 events (Miners, Adware, Toolbars)
+├── 📁 03_PUA_Riskware/           # 26 events (Miners, Adware, Toolbars)
 ├── 📁 04_FalsePositives_Benign/  # 280 events (Environmental Noise, System Processes)
 └── README.md                     # This Executive Summary
