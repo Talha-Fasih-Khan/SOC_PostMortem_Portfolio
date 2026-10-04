@@ -1,4 +1,4 @@
-# Incident Report: Freepik Dropper Malware
+# Incident Report: Freepik AdWare
 
 **Event ID:** 512760  
 **Date/Time:** 07/15/2024 14:08:06  
