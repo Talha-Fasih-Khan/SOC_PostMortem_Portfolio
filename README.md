@@ -34,8 +34,8 @@ Each report was evaluated against the following framework to ensure consistency 
 | :--- | :--- | :--- | :--- |
 | **False Positives (Benign)** | 280 | **60.9%** | The overwhelming majority of alerts were environmental noise, highlighting a significant opportunity for EDR tuning. |
 | **Dual-Use / Admin Tools** | 146 | **31.7%** | Nearly a third of alerts came from sanctioned RMMs (Splashtop, ScreenConnect, Syncro) used by our MSP, demonstrating the need for context-aware triage. |
-| **PUA / Riskware** | 25 | 5.4% | Unauthorized software (crypto miners, adware toolbars) violated policy but were not indicative of advanced persistent threats. |
-| **True Malware** | 9 | 2.0% | Only a fraction of alerts represented genuine threats, including Trojans, droppers, and phishing attempts. |
+| **PUA / Riskware** | 26 | **5.7%** | Unauthorized software (crypto miners, adware toolbars) violated policy but were not indicative of advanced persistent threats. |
+| **True Malware** | 8 | **1.7%** | Only a fraction of alerts represented genuine threats, including Trojans, droppers, and phishing attempts. |
 
 ---
 
